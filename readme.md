@@ -97,9 +97,6 @@ Identificação de padrões mensais e anuais.
 
 ## 👨‍💻 Autor
 **Carlos Lacerda**  
-📧 Email: [seu.email@example.com]  
-🔗 LinkedIn: [https://linkedin.com/in/seu-perfil]
-
 ---
 
 
